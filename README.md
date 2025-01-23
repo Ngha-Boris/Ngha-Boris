@@ -10,6 +10,12 @@
 - 💬 Ask me about Python, JavaScript, and Rust
 - 📫 How to reach me: nghaboris6@gmail.com
 
+### 📊 GitHub Stats
+
+![Ngha-Boris's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ngha-Boris&show_icons=true&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ngha-Boris&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=jupyter%20notebook)
+
+
 ### 🛠️ Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -20,44 +26,10 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 📊 GitHub Stats
-
-![Ngha-Boris's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ngha-Boris&show_icons=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ngha-Boris&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=jupyter%20notebook)
-
-### 🔥 Contribution Stats
-
-![Ngha-Boris's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Ngha-Boris&show_icons=true&theme=react)
-
-### 💼 Contribution Activity Breakdown
-
-![Code Reviews](https://img.shields.io/badge/Code%20Reviews-25%25-blue?style=for-the-badge)
-![Pull Requests](https://img.shields.io/badge/Pull%20Requests-25%25-green?style=for-the-badge)
-![Commits](https://img.shields.io/badge/Commits-25%25-yellow?style=for-the-badge)
-![Issues](https://img.shields.io/badge/Issues-25%25-red?style=for-the-badge)
-
 ### 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ngha-Boris)
-
 ### 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-### 🏆 Achievements
-
-- Certification in Data Science from Coursera
-- Winner of the XYZ Hackathon 2024
-
-### 📂 Pinned Repositories
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ngha-Boris&repo=example-repo&theme=react)](https://github.com/Ngha-Boris/example-repo)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ngha-Boris&repo=another-example-repo&theme=react)](https://github.com/Ngha-Boris/another-example-repo)
-
-### 📈 Recent Activity
-
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
