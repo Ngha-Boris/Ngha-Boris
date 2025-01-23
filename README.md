@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Rust and Machine Learning
 - 👯 I’m looking to collaborate on open-source projects related to data science and web development
 - 💬 Ask me about Python, JavaScript, and Rust
-- 📫 How to reach me: ngha.boris@example.com
+- 📫 How to reach me: nghaboris6@gmail.com
 
 ### 🛠️ Languages and Tools
 
