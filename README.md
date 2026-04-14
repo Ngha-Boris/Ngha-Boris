@@ -13,6 +13,8 @@
 ![Ngha-Boris's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ngha-Boris&show_icons=true&theme=react)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ngha-Boris&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=jupyter%20notebook)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ngha-Boris)](https://git.io/streak-stats)
+
 
 ### 🛠️ Languages and Tools
 
