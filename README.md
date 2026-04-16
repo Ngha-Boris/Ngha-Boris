@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 
-Full-stack developer working with **Rust**, **TypeScript**, and modern web technologies.
+Full-stack Software Engineer working with **Rust**, **TypeScript**, and modern web technologies.
 
 Interested in backend systems, authentication, and digital identity.
 Currently building a **cloud identity wallet** and experimenting with secure, scalable architectures.
