@@ -32,41 +32,6 @@ Currently building a **cloud identity wallet** and experimenting with secure, sc
 
 ---
 
-### ⚙️ Frameworks & Libraries
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Axum](https://img.shields.io/badge/Axum-000000?style=for-the-badge)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge)
-![ZXing](https://img.shields.io/badge/ZXing-000000?style=for-the-badge)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
-
----
-
-### 🔐 Crypto & Identity
-
-![Web Crypto API](https://img.shields.io/badge/WebCrypto-4285F4?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![OAuth 2.0](https://img.shields.io/badge/OAuth2-3C3C3C?style=for-the-badge)
-![OpenID Connect](https://img.shields.io/badge/OpenID_Connect-EB5424?style=for-the-badge&logo=openid&logoColor=white)
-
----
-
-### 🧰 Tools & DevOps
-
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Cargo](https://img.shields.io/badge/Cargo-000000?style=for-the-badge&logo=rust&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
----
-
 ### 🌐 APIs & Standards
 
 ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
