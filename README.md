@@ -3,14 +3,23 @@
 ![GitHub followers](https://img.shields.io/github/followers/Ngha-Boris?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Ngha-Boris?label=Stars&style=social)
 
-### 🚀 About Me
+# Hi, I'm Boris Ngha 👋
 
-Full-stack Software Engineer working with **Rust**, **TypeScript**, and modern web technologies.
+I'm a Software Engineer with a strong interest in backend engineering, cloud infrastructure, and scalable distributed systems. I enjoy building reliable software that solves real-world problems through thoughtful architecture and clean, maintainable code.
 
-Interested in backend systems, authentication, and digital identity.
-Currently building a **cloud identity wallet** and experimenting with secure, scalable architectures.
+My primary focus is backend development with **Rust**, while expanding my expertise in **Flutter** for cross-platform mobile applications. I also have experience working with **Java**, **TypeScript**, **React**, **PostgreSQL**, **Docker**, and **Kubernetes**.
 
-- 💬 Let's talk about software engineering
+I am particularly interested in:
+
+* Backend Engineering
+* Cloud Computing & DevOps
+* Distributed Systems
+* Platform Engineering
+* AI for Cloud & DevOps
+* Mobile Application Development
+
+I believe in continuous learning, writing high-quality software, and building systems that are secure, scalable, and maintainable.
+
 
 ### 📊 GitHub Stats
 
