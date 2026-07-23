@@ -1,5 +1,3 @@
-## Hi there, I'm Ngha-Boris 👋
-
 ![GitHub followers](https://img.shields.io/github/followers/Ngha-Boris?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Ngha-Boris?label=Stars&style=social)
 
